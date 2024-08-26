@@ -1,0 +1,9 @@
+{
+    "full_name": "Edward Burgos",
+    "repo_name": "DS Boilerplate",
+    "module_name": "module_name",
+    "project_short_description": "Python Boilerplate contains all the boilerplate you need to create a DS project.",
+    "version": "0.1.0",
+    "version_python": "3.12",
+    "open_source_license": ["MIT license", "BSD license", "ISC license", "Apache Software License 2.0", "GNU General Public License v3", "Not open source"]
+  }
